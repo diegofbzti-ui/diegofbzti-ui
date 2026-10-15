@@ -3,13 +3,13 @@
 <div align="center">
   <h3>🚀 Analista de TI Pleno | Entusiasta de IA, Automações e Integrações ERP</h3>
   
- <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario) -->
+  <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario) -->
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/diegofbzti-ui)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/dxdiego5/dxdiego5)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diegofbzti@gmail.com)
+  [![YouTube Principal](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DiegoFelipeBez)
+  [![YouTube Secundário](https://img.shields.io/badge/YouTube_Antigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@diegofelipe769)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegofbzti@gmail.com)
 </div>
-
-
 
 <br />
 
@@ -20,7 +20,7 @@ Com **8 anos de experiência na área de Tecnologia da Informação**, atuo atua
 - 🔭 **Atuação Atual:** Analista de TI Pleno no setor do Agronegócio.
 - 🔑 **Destaque:** Atuando como *Key User* de TI no processo de implementação/transição de novo sistema para **SAP**.
 - 🤖 **Foco Atual:** Automação digital, integração de dados e aplicação de IA em processos corporativos.
-- 🌐 **Idiomas:** Português (Nativo) | Inglês (Boa leitura e interpretação de texto).
+- 🌐 **Idiomas:** Português (Nativo) | Inglês (Boa leitura e interpretação de texto — *Curso em andamento com Prof. Rui Ventura na Hotmart*).
 
 ---
 
@@ -62,15 +62,9 @@ Com **8 anos de experiência na área de Tecnologia da Informação**, atuo atua
 - 🎓 **Graduação em Desenvolvimento de Sistemas para Web** — IFMT *(Concluído em 2021)*
 
 ### Cursos e Imersões
+- 📌 **Curso de Inglês** — Prof. Rui Ventura (Hotmart) *(Cursando)*
 - 📌 **SAP FUN** — Kasolution *(Cursando)*
 - 📌 **Data Science Start (1 ano)** — Growdev *(Concluído)*
 
 ### 🎯 Próximos Passos (Em breve)
-- ☁️ Arquitetura e Sistemas em Nuvem (Cloud)
-- 💼 Academia Profissional SAP
-
----
-
-<div align="center">
-  <p><i>"Transformando dados e processos em eficiência operacional através da tecnologia."</i></p>
-</div>
+- ☁
