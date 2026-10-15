@@ -8,7 +8,8 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red)](https://github.com/dxdiego5/dxdiego5)
   [![YouTube Principal](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DiegoFelipeBez)
   [![YouTube Secundário](https://img.shields.io/badge/YouTube_Antigo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@diegofelipe769)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegofbzti@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegofbzti@gmail.com)
+  [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:dxdiegofelipe@hotmail.com)
 </div>
 
 <br />
@@ -62,9 +63,4 @@ Com **8 anos de experiência na área de Tecnologia da Informação**, atuo atua
 - 🎓 **Graduação em Desenvolvimento de Sistemas para Web** — IFMT *(Concluído em 2021)*
 
 ### Cursos e Imersões
-- 📌 **Curso de Inglês** — Prof. Rui Ventura (Hotmart) *(Cursando)*
-- 📌 **SAP FUN** — Kasolution *(Cursando)*
-- 📌 **Data Science Start (1 ano)** — Growdev *(Concluído)*
-
-### 🎯 Próximos Passos (Em breve)
-- ☁
+- 📌 **Curso de Inglês** —
